@@ -1,2 +1,2 @@
 # Hirigana-App
-Front End so far 
+Front and Backend will be reviewing .
